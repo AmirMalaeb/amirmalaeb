@@ -19,10 +19,4 @@ Helping customers innovate with Agentic AI, Kubernetes, and cloud-native technol
 
 ---
 
-### Currently into
-
-Kubernetes, AI, Agentic AI, Kiro
-
----
-
 [LinkedIn](https://www.linkedin.com/in/amir-malaeb/) | [Website](http://www.amirmalaeb.com)
