@@ -19,4 +19,4 @@ Helping customers innovate with Agentic AI, Kubernetes, and cloud-native technol
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/amir-malaeb/) | [Website](http://www.amirmalaeb.com)
+[LinkedIn](https://www.linkedin.com/in/amir-malaeb/)
